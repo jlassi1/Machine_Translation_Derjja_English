@@ -7,6 +7,11 @@ This repo is based on the code provided by the authors.
 
 ## Preprocessing
 
+My data is composed of one column and each sentence or word has its translation below we split into 2 columns each has the Darija sentence and the other has the translation to English, then we concatenate them in one and save it.
+Spliting Data to training and validation data.
+converting our data to tensor using tf.data.Dataset.from_tensor_slices to be readable for the model 
+
+![Splashscreen](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/asset/black_tunis.png)
 
 ## Training
 
