@@ -11,7 +11,8 @@ My data is composed of one column and each sentence or word has its translation 
 Spliting Data to training and validation data.
 converting our data to tensor using tf.data.Dataset.from_tensor_slices to be readable for the model 
 
-![Splashscreen](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/asset/black_tunis.png)
+|------------|-------------|
+| ![Splashscreen](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/asset/black_tunis.png) | ![Splashscreen](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/asset/white_tunis.png)  
 
 ## Training
 
