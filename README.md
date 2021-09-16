@@ -15,14 +15,16 @@ converting our data to tensor using tf.data.Dataset.from_tensor_slices to be rea
 |------------|-------------|
 | ![Splashscreen](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/asset/black_tunis.png)      | ![Splashscreen](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/asset/white_tunis.png)      |
 
+more detail in [Data_Preprocessing.ipynb](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/models/Data_Preprocessing.ipynb)
 ## Training
+
 
 # Evaluation results
 
 
 
 ### Sample Translations
-Derjja (in)| English (out)
+Derjja (input)| English (output)
 --- | --- |
 مَهُوشْ رَاضِي عَلَى عِيشْتُو | unsatisfied with life.
 عندي رنديفو غدوة الصباح | I have a meeting tomorrow.
