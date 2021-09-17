@@ -51,11 +51,21 @@ Derjja (input)| English (output)
  شد الحبل بالقوي وماتسيبوش | grab the rope well and dont let go .
  حسيتو شاد ڨارد وما يحبش حتى حد يقربلو والا يحكي معاه | i felt like he was on guard and didnt want anyone to come near him or talk with him .
 
+
+
+## Dataset 
+
+Dataset compart of 13036 rows 2 colmns, 12052 unique values in english and 12042 unique values in Derjja of sentences and words scraped from [DERJA NINJA](https://derja.ninja/)
+
+![Splashscreen](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/asset/dataset_screenshot.png)
+
+you can find the dataset used in this [Kaggle](https://www.kaggle.com/khawlajlassi/drejja-to-english) address. 
+
 ## AUTHORS
 * Imen Ayari - [Githb](https://github.com/Immaannn2222)
-             - [LinkedIn](https://www.linkedin.com/in/imen-ayari1-77312a1a2/)
+             - [LinkedIn](https://www.linkedin.com/in/imene-ayari/  )
 * Jacer Dabbabi - [Github](https://github.com/jaycer95)
              - [LinkedIn](https://www.linkedin.com/in/jacer-dabbabi-a1519a1a1/)
 * Khawla Jlassi - [Github](https://github.com/jlassi1)
-             - [LinkedIn](https://www.linkedin.com/in/khawla-jlassi-11941019a/)
+             - [LinkedIn](https://www.linkedin.com/in/khawla-jlassi/)
 
