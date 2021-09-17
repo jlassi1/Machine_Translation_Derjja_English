@@ -20,10 +20,12 @@ more detail in [Data_Preprocessing.ipynb](https://github.com/jlassi1/Machine_Tra
 ## Training
 
 For the Transformer, after a 150 epoch Loss: 0.0488, Accuracy: 0.3270
+
 see the detail in [MT_with_Transfomer.ipynb](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/models/MT_with_Transfomer.ipynb)
 
 
 For the Seq2Seq, after 100 epoch, batch_loss: 0.4867
+
 see the detail in [MT_with_Seq2Seq.ipynb](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/models/MT_with_Seq2Seq.ipynb)
 
 # Evaluation results
