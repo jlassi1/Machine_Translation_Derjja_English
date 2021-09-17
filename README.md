@@ -55,7 +55,7 @@ Derjja (input)| English (output)
 
 ## Dataset 
 
-Dataset compart of 13036 rows 2 colmns, 12052 unique values in english and 12042 unique values in Derjja of sentences and words scraped from [DERJA NINJA](https://derja.ninja/)
+Dataset compart of 13036(sentences and words) rows 2 colmns('en', 'tn'), 12052 unique values in english and 12042 unique values in Derjja. Scraped from [DERJA NINJA](https://derja.ninja/)
 
 ![Splashscreen](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/asset/dataset_screenshot.png)
 
