@@ -16,22 +16,38 @@ converting our data to tensor using tf.data.Dataset.from_tensor_slices to be rea
 | ![Splashscreen](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/asset/black_tunis.png)      | ![Splashscreen](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/asset/white_tunis.png)      |
 
 more detail in [Data_Preprocessing.ipynb](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/models/Data_Preprocessing.ipynb)
+
 ## Training
 
+For the Transformer, after a 150 epoch Loss: 0.0488, Accuracy: 0.3270
+see the detail in [MT_with_Transfomer.ipynb](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/models/MT_with_Transfomer.ipynb)
+
+
+For the Seq2Seq, after 100 epoch, batch_loss: 0.4867
+see the detail in [MT_with_Seq2Seq.ipynb](https://github.com/jlassi1/Machine_Translation_Derjja_English/blob/main/models/MT_with_Seq2Seq.ipynb)
 
 # Evaluation results
 
-
+we still work on the bleu score ...
 
 ### Sample Translations
+        the most accurate result from the Transformer model
+
+
 Derjja (input)| English (output)
 --- | --- |
 مَهُوشْ رَاضِي عَلَى عِيشْتُو | unsatisfied with life.
 عندي رنديفو غدوة الصباح | I have a meeting tomorrow.
 فما فستفال فالحمامات غدوا | There is a festival in Hammamat tomorrow.
 
+        the most accurate result from the Seq2Seq model
 
-
+Derjja (input)| English (output)
+--- | --- |
+ شد إلكرسي من ساقو ورماه | he took the chair with his leg and threw it .
+ خذينا الطيارة بش نمشيو لجربة | we took the flight to go to jerba .
+ شد الحبل بالقوي وماتسيبوش | grab the rope well and dont let go .
+ حسيتو شاد ڨارد وما يحبش حتى حد يقربلو والا يحكي معاه | i felt like he was on guard and didnt want anyone to come near him or talk with him .
 
 ## AUTHORS
 * Imen Ayari - [Githb](https://github.com/Immaannn2222)
