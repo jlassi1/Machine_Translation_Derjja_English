@@ -55,7 +55,8 @@ Derjja (input)| English (output)
 
 ## Dataset 
 
-Dataset compart of:
+Dataset compart of: 
+
 numbers | elements
 --- | --- |
 13036 | rows(sentences and words)
